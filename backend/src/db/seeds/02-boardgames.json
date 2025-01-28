@@ -1,0 +1,193 @@
+[
+    {
+        "id" : 1,
+        "name": "Ark Nova",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "info" : "https://boardgamegeek.com/boardgame/342942/ark-nova",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description" : "Plan and build a modern, scientifically managed zoo to support conservation projects."
+    },
+    {
+        "id" : 2,
+        "name": "Brass: Birmingham",
+        "picture": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__imagepage/img/-17KkOmxbTu2slJTabGrkO8ZW8s=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3490053.jpg",
+        "info" : "https://boardgamegeek.com/boardgame/224517/brass-birmingham",
+        "rulebook" : "http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf",
+        "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution."
+    },
+    {
+        "id" : 3,
+        "name": "Cascadia",
+        "picture": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg",
+        "rulebook" : "https://www.alderac.com/wp-content/uploads/2021/08/Cascadia-Rules.pdf",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+    },
+    {
+        "id" : 4,
+        "name": "Dune: Imperium",
+        "picture": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__imagepage/img/BjM3LyahJ4IQ2ov5MkzkHatbmUc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5666597.jpg",
+        "rulebook" : "https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf",
+        "description": "Influence, intrigue, and combat in the universe of Dune."
+    },
+    {
+        "id" : 5,
+        "name": "Earth",
+        "picture": "https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__imagepage/img/sxzhjfiLwG7mtEkRpAvsw1P5cec=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6699821.jpg",
+        "rulebook" : "https://fgbradleys.com/wp-content/uploads/Earth_Rulebook_First_Edition.pdf?srsltid=AfmBOopoi7wfHUchHDasNp_2Msckunre55XJ5jmvhpQQVtOYdP6ijrTU",
+        "description": "Strategically grow your ecosystem card engine with unique flora, fauna, and terrains."
+    },
+    {
+        "id" : 6,
+        "name": "Everdell",
+        "picture": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__imagepage/img/ijYTk6KGtxLRdIvLsGar13ZHs4c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3918905.png",
+        "rulebook" : "https://cdn.shopify.com/s/files/1/0559/8245/6947/files/The_Gilded_Book_web_res.pdf?v=1658928007",
+        "description": "Gather resources to develop a harmonious village of woodland critters and structures."
+
+    },
+    {
+        "id" : 7,
+        "name": "Great Western Trail",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 8,
+        "name": "Heat: Pedal to the Medal",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 9,
+        "name": "Twilight Imperium",
+        "picture": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__imagepagezoom/img/XukF6G6yGYG06y-ODGk7usmxZ-U=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3727516.jpg",
+        "info": "https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition",
+        "rulebook" : "https://images-cdn.fantasyflightgames.com/filer_public/da/df/dadf9f07-78f3-43ac-9cce-dd6b55b24ec2/ti4_living_rules_reference_v1_3_web.pdf",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 10,
+        "name": "Terraforming Mars",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 11,
+        "name": "Scythe",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 12,
+        "name": "Nemesis",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 13,
+        "name": "7 Wonders",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 14,
+        "name": "One Night Werewolf",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 15,
+        "name": "Wingspan",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+
+    },
+    {
+        "id" : 16,
+        "name": "Azul",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 17,
+        "name": "Aquire",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 18,
+        "name": "Secret Hitler",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 19,
+        "name": "Splendor",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 20,
+        "name": "Ticket to Ride",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 21,
+        "name": "Ra",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 21,
+        "name": "Betrayal on the House on the Hill",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 22,
+        "name": "King of Tokyo",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 23,
+        "name": "the Castles of Burgundy",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 24,
+        "name": "Spirit Island",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 25,
+        "name": "Zombicide",
+        "picture": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepagezoom/img/3AiTYsFmreOKB3V2xTmolY1JiOo=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6293412.jpg",
+        "rulebook" : "https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf?srsltid=AfmBOoqRuZyLXF9VZbTTgxltCOZDRPeJvEgEmPRE-pWacYQqc_DzT0eU"
+    },
+    {
+        "id" : 26,
+        "name": "Twilight Imperium: Prophecy of Kings",
+        "picture": "https://cf.geekdo-images.com/bzRLsXf3O8Mpu5B4TUSf2g__imagepagezoom/img/iEud9weCCpIimc6DEJZceMvBUwY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5563396.png",
+        "rulebook" : "https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf"
+    }
+
+]

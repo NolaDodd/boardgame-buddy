@@ -1,0 +1,44 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.Home {
+  padding: 20px;
+}
+
+input {
+  width: 15%;
+  padding: 2px;
+  margin: 4px
+}
+
+.Header {
+background-color:rgb(255, 255, 255);
+border-bottom: 4px solid black;
+}
+
+.space {
+  margin: 20px
+}
+
+.btn {
+  outline: 3px solid black;
+}
+
+.buttonMargin {
+  margin: 0px 0px 0px 10px;
+}
+
+div {
+  margin: 8px 0px
+}
+
+.half {
+  max-width: 600px;
+  margin: auto;
+  padding: 10px;
+}
